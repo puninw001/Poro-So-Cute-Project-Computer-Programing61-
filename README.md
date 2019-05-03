@@ -12,7 +12,7 @@
 | Profile | รหัสนักศึกษา        | ชื่อ - นามสกุล | Github |
 |:---------:| :-------------: |:---------------------:| :-------------: |
 | <a><img src="img/runchapol.jpg" width="200px"></a> | 61070183    | นายรัญชน์พล ทองวัฒนานนท์ | [Runchapol](https://github.com/Runchapol) |
-| <a><img src="img/1.png" width="200px"></a> | 61070024    | นายจักริน พงษ์ศิริรัชกุล | [nueng2542](https://github.com/nueng2542) |
+| <a><img src="img/1.png" width="200px"></a> | 61070024    | นายจักริน พงษ์ศิริรัชกุล | [nueng2542](https://github.com/neung2542) |
 | <a><img src="img/poro.jpg" width="200px"></a> | 61070160    | นายภาณุวัฒน์ ศรีจันทร์วิจิตร | [Parnuwat](https://github.com/puninw001) |
 | <a><img src="img/jay.jpg" width="200px"></a> | 61070241    | นายสิรภพ รักเกื้อ | [Sirapop](https://github.com/SirapopJayz) |
 ## อาจารย์ที่ปรึกษา
